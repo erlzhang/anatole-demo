@@ -28,7 +28,7 @@ remote_theme: erlzhang/jekyll-theme-arktos
 plugins:
   - jekyll-feed
 
-anatole:
+arktos:
   excerpt: true
 
 # Exclude from processing.
